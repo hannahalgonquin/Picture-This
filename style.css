@@ -54,7 +54,7 @@ img {
   }
   }
 
-  @media (min-width: 960px) {
+@media (min-width: 960px) {
     .header {
       grid-template-columns: repeat(2, 1fr);
     }
@@ -62,4 +62,4 @@ img {
       width: 100%;
       height: auto;
     }
-  }
+}
