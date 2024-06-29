@@ -45,14 +45,14 @@ img {
 }
 
 @media (max-width: 959px) {
-  .square {
-    display: none;
-  }
+.square {
+  display: none;
+}
   
-  .landscape {
-    display: block;
-  }
-  }
+.landscape {
+  display: block;
+}
+}
 
 @media (min-width: 960px) {
     .header {
